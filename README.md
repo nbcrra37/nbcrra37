@@ -6,9 +6,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbcrra37&theme=" alt="nbcrra37" /></a> </p>-->
 
-- 🔭 I’m currently working on **personal projects & college projects, while also postulating on a Master of Data Science**
+- 🔭 I’m currently working on **personal & college projects, while also postulating to a Master of Data Science**
 - 👯 I’m looking to collaborate on **software engineering stuff, AI related projects or anything that seems fun & interesting.**
-- 🌱 I’m currently learning **Django, Git and**
+- 🌱 I’m currently learning **Django and Git**
 
 - 📫 How to reach me **nicolasbcrr.a@gmail.com**
 - ⚡ Fun fact **I zone out a lot 😶‍🌫️**
