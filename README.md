@@ -3,7 +3,7 @@
 <h3 align="center">I'm an Electric Engineering student at University of Chile 🌶️, specialized in Computational Intelligence and Data Science. Excited to learn new stuff 🔰 and passionate about software engineering 💻// food 🍕// joy🎮// and self-improvement 💪</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbcrra37&label=Profile%20views&color=0e75b6&style=flat" alt="nbcrra37" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbcrra37&theme=" alt="nbcrra37" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nbcrra37&theme=" alt="nbcrra37" /></a> </p>-->
 
 - 🔭 I’m currently working on **personal projects & college projects, while also postulating on a Master of Data Science**
 - 👯 I’m looking to collaborate on **software engineering stuff, AI related projects or anything that seems fun & interesting.**
